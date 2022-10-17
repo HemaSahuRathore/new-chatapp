@@ -1,2 +1,1 @@
-# new-chatapp
-Deploy using Code deploy
+# Django-Chat-Application
